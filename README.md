@@ -2,7 +2,7 @@
 A mathematical framework to model mortality dynamics. Bridges Lexis diagrams to population pyramids, implements life expectancy decomposition algorithms, and introduces a novel statistical metric to quantify population structural stability using period life tables.
 
 Note to recruiters: 
-Will officially publish work in newar future, send me an email if you would like to take a look at what I have
+Will officially publish work in near future, send me an email if you would like to take a look at what I have
 
 Arriaga, E. E. (1984). Measuring and explaining the change in life expectancies. *Demography*, *21*(1), 83–96. https://doi.org/10.2307/2061029
 
