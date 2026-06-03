@@ -4,8 +4,7 @@ A cross national study of population aging and mortality dynamics across 20 coun
 
 Work in Progress, adding on to existing research with my own contributions.
 
-Note to recruiters: 
-Will officially publish work in near future, send me an email if you would like to take a look at what I have: zmichaelarman@gmail.com
+Note: This project is under active development. Selected outputs and methodology documentation available. reach out at zmichaelarman@gmail.com or connect on LinkedIn.
 
 <img width="1634" height="887" alt="stability_pyramid_DEU_2019_B" src="https://github.com/user-attachments/assets/06488b85-d90c-467d-ae49-faedc47be196" />
 
