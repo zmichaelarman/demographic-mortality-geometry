@@ -1,5 +1,8 @@
 # demographic-regime-ml
-Work in Progress, adding on to existing research with my own contributions
+
+A cross national study of population aging and mortality dynamics across 20 countries, combining demographic analysis, machine learning, and actuarial mathematics on an SQL backed pipeline built from four international data sources (HMD, WHO, UN, World Bank).
+
+Work in Progress, adding on to existing research with my own contributions.
 
 Note to recruiters: 
 Will officially publish work in near future, send me an email if you would like to take a look at what I have: zmichaelarman@gmail.com
